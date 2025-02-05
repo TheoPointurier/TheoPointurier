@@ -1,5 +1,5 @@
 # About Me:
-(theopointurier.com)
+[theopointurier.com](theopointurier.com)
 
 
 ## 🌐 Socials:
