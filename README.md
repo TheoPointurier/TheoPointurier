@@ -1,5 +1,5 @@
-# 💫 About Me:
-Après avoir navigué entre les vignes, l'e-commerce et le financement, j'ai finalement troqué mes outils de gestion pour du code... et quelques lignes de JavaScript. Mon parcours m'a appris à jongler avec les projets et à accorder les détails, un peu comme dans mes créations musicales sur ableton ou autre outils de MAO. <br>Maintenant, je compose du code avec la même précision qu'un bon vin ou une bonne piste audio.<br><br>Si tu veux parler dev, son, ou même partager une playlist, fais-moi signe !
+# About Me:
+theopointurier.com
 
 
 ## 🌐 Socials:
